@@ -1,0 +1,5 @@
+# Ignore the massive dataset file
+hotel_reviews.csv
+
+# Or ignore the entire data folder
+data/
